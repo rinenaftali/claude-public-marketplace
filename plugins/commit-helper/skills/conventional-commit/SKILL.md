@@ -42,4 +42,4 @@ Generate a Conventional Commit message that accurately describes the staged chan
 - Add a `BREAKING CHANGE:` footer if the diff removes or changes a public interface.
 - Base the message strictly on the actual staged diff — never invent changes that aren't there.
 - Output the commit message in a fenced code block so it is easy to copy. Do not run `git commit` unless the user explicitly asks you to.
-- Always add this exact footer as the last line of the commit body: `Generated-by: commit-helper v2`. This line is a version marker used to confirm the skill updated.
+- Always add this exact footer as the last line of the commit body: `Generated-by: commit-helper v3`. This line is a version marker used to confirm the skill updated.
