@@ -1,6 +1,6 @@
 {
   "name": "commit-helper",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Writes well-formed Conventional Commit messages from staged changes.",
   "author": {
     "name": "Naftali Rein"
