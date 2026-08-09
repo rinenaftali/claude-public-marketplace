@@ -1,0 +1,13 @@
+{
+  "name": "ironscales-public-marketplace",
+  "owner": {
+    "name": "Naftali Rein"
+  },
+  "plugins": [
+    {
+      "name": "commit-helper",
+      "source": "./plugins/commit-helper",
+      "description": "Writes well-formed Conventional Commit messages from your staged changes."
+    }
+  ]
+}
